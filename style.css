@@ -1,0 +1,28 @@
+#slideshow-container {
+    position: relative;
+    max-width: 1000px;
+    margin: auto;
+}
+
+.mySlides {
+    display: none;
+    width: 100%;
+}
+
+img {
+    width: 100%;
+}
+
+#caption {
+    text-align: center;
+    margin-top: 10px;
+}
+
+.controls {
+    text-align: center;
+    margin-top: 10px;
+}
+button img{
+    width:30px;
+  
+}
